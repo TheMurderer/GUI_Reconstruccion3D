@@ -5,9 +5,9 @@
 //#define _SIFT_ 1
 
 
-
-matching::matching()
-{ }
+    //Constructor
+    matching::matching()
+    { }
 
 
 
